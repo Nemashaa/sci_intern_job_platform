@@ -1,0 +1,171 @@
+.loginbackground1 {
+  position: absolute;
+  top: 436px;
+  left: 929px;
+  box-shadow: 0 0 35px 17px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 869px;
+  height: 975px;
+}
+.log-in-to1 {
+  position: absolute;
+  top: 698px;
+  left: calc(50% + 276.5px);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-kadwa);
+}
+.faculty-of-science1 {
+  position: absolute;
+  top: 1432px;
+  left: 1056px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inder);
+}
+.log-in-your1,
+.welcome1 {
+  position: absolute;
+  display: inline-block;
+}
+.log-in-your1 {
+  top: 527px;
+  left: calc(50% + 84.5px);
+  font-size: var(--font-size-51xl);
+  width: 638px;
+  height: 90px;
+  text-shadow: 5px 5px 4px rgba(0, 0, 0, 0.25);
+}
+.welcome1 {
+  top: 617px;
+  left: 1293px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-mediumslateblue);
+  width: 158px;
+  height: 45px;
+}
+.passwordtopback1,
+.usernametopback1 {
+  position: absolute;
+  top: 767px;
+  left: 1067px;
+  background-color: var(--color-gainsboro);
+  width: 104px;
+  height: 16px;
+}
+.passwordtopback1 {
+  top: 888px;
+  left: 1069px;
+  width: 99px;
+}
+.usernamefield1 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 793px;
+  left: 1072px;
+  font-weight: 700;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  text-align: left;
+  width: 614px;
+  height: 25px;
+}
+.dont-have-an1 {
+  top: 1136px;
+  left: 1272px;
+  width: 199px;
+  height: 29px;
+}
+.contactus1,
+.dont-have-an1,
+.registerbutton1 {
+  position: absolute;
+  display: inline-block;
+}
+.registerbutton1 {
+  top: 1174px;
+  left: 1214px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  color: var(--color-darkslateblue);
+  width: 327px;
+  height: 40px;
+}
+.contactus1 {
+  top: 1362px;
+  left: 1238px;
+  font-family: var(--font-inder);
+  color: var(--color-dimgray);
+  width: 278px;
+  height: 29px;
+}
+.loginimage-icon1 {
+  position: absolute;
+  top: 599px;
+  left: 120px;
+  border-radius: var(--br-xl);
+  width: 708px;
+  height: 631px;
+  object-fit: cover;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 682px;
+  height: 61px;
+}
+.passwordfield1 {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 18px;
+  left: 64px;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 614px;
+  height: 25px;
+}
+.rectangle-container,
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 778px;
+  left: 1001px;
+  width: 682px;
+  height: 61px;
+  cursor: pointer;
+}
+.rectangle-container,
+.rectangle-group {
+  top: 858px;
+  left: 999px;
+}
+.rectangle-container {
+  top: 938px;
+  left: 997px;
+}
+.loginpage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-darkkhaki);
+  height: 1985px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

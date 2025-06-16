@@ -1,0 +1,137 @@
+.createpost-child {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  background-color: var(--color-white);
+  width: 170px;
+  height: 35px;
+}
+.create-new-post,
+.post-title {
+  position: absolute;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.create-new-post {
+  top: 105px;
+  left: 302px;
+  font-size: var(--font-size-3xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #338fb7;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 354px;
+  height: 35px;
+}
+.post-title {
+  top: 0;
+  left: 0;
+  width: 167px;
+  height: 15px;
+}
+.group-child2 {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 381px;
+  height: 30px;
+}
+.add,
+.post-title-parent {
+  position: absolute;
+  top: 161px;
+  left: 302px;
+  width: 381px;
+  height: 50px;
+}
+.add {
+  top: 28px;
+  left: 199px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #338fb7;
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 15px;
+}
+.group-child3 {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 255px;
+  height: 30px;
+}
+.group-child4,
+.images-parent {
+  position: absolute;
+  top: 565px;
+  left: 302px;
+  width: 255px;
+  height: 50px;
+}
+.group-child4 {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 381px;
+  height: 27px;
+}
+.advertised-duration-parent,
+.group-child6,
+.job-role-parent {
+  position: absolute;
+  top: 222px;
+  left: 302px;
+  width: 381px;
+  height: 47px;
+}
+.advertised-duration-parent,
+.group-child6 {
+  top: 494px;
+}
+.group-child6 {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  height: 159px;
+}
+.description-parent {
+  position: absolute;
+  top: 290px;
+  left: 302px;
+  width: 381px;
+  height: 179px;
+}
+.createpost {
+  width: 998px;
+  position: relative;
+  background-color: var(--color-white);
+  height: 789px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

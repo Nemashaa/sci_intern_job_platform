@@ -1,0 +1,102 @@
+.write-recommendation {
+  display: flex;
+  align-items: center;
+}
+.write-recommendation,
+.write-recommendation-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 481.1px;
+  height: 18px;
+}
+.download1-inner,
+.or {
+  position: absolute;
+  height: 18px;
+}
+.download1-inner {
+  top: 107px;
+  left: 46px;
+  width: 481.1px;
+  font-size: 14px;
+}
+.or {
+  top: 8px;
+  left: 486px;
+  display: flex;
+  align-items: center;
+  width: 51px;
+}
+.download1-child,
+.or-parent {
+  position: absolute;
+  top: 339px;
+  left: 21px;
+  width: 614px;
+  height: 40px;
+}
+.download1-child {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: var(--color-white);
+  top: 142px;
+  left: 46px;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 615px;
+  height: 173px;
+}
+.add-student {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 265.6px;
+  height: 15px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 615px;
+  height: 30px;
+}
+.add-student-parent {
+  position: absolute;
+  top: 33px;
+  left: 46px;
+  width: 615px;
+  height: 50px;
+  font-family: var(--font-inter);
+}
+.download1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  width: 717px;
+  height: 486px;
+  overflow-y: auto;
+}
+.giverecommendation {
+  width: 717px;
+  position: relative;
+  height: 500px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

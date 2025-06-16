@@ -1,0 +1,200 @@
+.loginbackground {
+  position: absolute;
+  top: 436px;
+  left: 929px;
+  box-shadow: 0 0 35px 17px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-11xl);
+  background-color: #fff;
+  width: 869px;
+  height: 975px;
+} 
+.log-in-to {
+  position: absolute;
+  top: 698px;
+  left: calc(50% + 276.5px);
+  font-family: var(--font-kadwa);
+}
+.faculty-of-science {
+  position: absolute;
+  top: 1432px;
+  left: 1056px;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-inder);
+}
+.log-in-your,
+.welcome {
+  position: absolute;
+  display: inline-block;
+}
+.log-in-your {
+  top: 527px;
+  left: calc(50% + 84.5px);
+  font-size: var(--font-size-51xl);
+  width: 638px;
+  height: 90px;
+  text-align: center;
+  font-weight: 300;
+  font-family: 'Inter';
+}
+.welcome {
+  top: 617px;
+  left: 1293px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-mediumslateblue);
+  width: 158px;
+  height: 45px;
+}
+.usernameframe {
+  border: 1px solid #cecece;
+  outline: 0;
+  top: 774.5px;
+  left: 1011.5px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  width: 683px;
+  height: 62px;
+  padding: 15px;
+}
+.passwordframe,
+.passwordtopback,
+.usernameframe,
+.usernametopback {
+  position: absolute;
+}
+.passwordframe {
+  border: 1px solid #cecece;
+  outline: 0;
+  top: 892.5px;
+  left: 1011.5px;
+  border-radius: 30px;
+  box-sizing: border-box;
+  width: 683px;
+  height: 62px;
+  padding: 15px;
+}
+.passwordtopback,
+.usernametopback {
+  top: 767px;
+  left: 1067px;
+  width: 104px;
+  height: 16px;
+}
+.passwordtopback {
+  top: 888px;
+  left: 1069px;
+  width: 99px;
+}
+.passwordsmall,
+.usernamesmall {
+  position: absolute;
+  top: 759px;
+  left: 1071px;
+  display: inline-block;
+  width: 100px;
+  height: 21px;
+}
+.passwordsmall {
+  top: 879px;
+  left: 1073px;
+  width: 94px;
+}
+.passwordfield,
+.usernamefield {
+  border: 0;
+  outline: 0;
+  display: inline-block;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 614px;
+  height: 25px;
+}
+.usernamefield {
+  top: 793px;
+  left: 1072px;
+  white-space: pre-wrap;
+}
+.passwordfield {
+  top: 914px;
+  left: 1073px;
+}
+.dont-have-an {
+  top: 1136px;
+  left: 1272px;
+  font-size: var(--font-size-lg);
+  width: 199px;
+  height: 29px;
+}
+.contactus,
+.dont-have-an,
+.registerbutton {
+  position: absolute;
+  display: inline-block;
+}
+.registerbutton {
+  top: 1174px;
+  left: 1214px;
+  font-size: var(--font-size-6xl);
+  text-decoration: underline;
+  color: var(--color-darkslateblue);
+  width: 327px;
+  height: 40px;
+}
+.contactus {
+  top: 1362px;
+  left: 1238px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inder);
+  color: var(--color-dimgray);
+  width: 278px;
+  height: 29px;
+}
+.loginimage-icon {
+  position: absolute;
+  top: 599px;
+  left: 120px;
+  border-radius: var(--br-xl);
+  width: 708px;
+  height: 631px;
+  object-fit: cover;
+}
+.login {
+  position: relative;
+}
+.loginbutton {
+  position: absolute;
+  top: 1026px;
+  left: calc(50% + 284.5px);
+  border-radius: var(--br-11xl);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 84px;
+  cursor: pointer;
+  font-size: 30px;
+  border: 0;
+  background-color: goldenrod;
+  color: #fff;
+  font-family: 'Inter';
+}
+
+.loginbutton:hover {
+ background-color: rgb(177, 130, 11);
+}
+
+.loginpage1 {
+  width: 100%;
+  position: relative;
+  height: 1985px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

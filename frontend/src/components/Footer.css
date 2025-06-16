@@ -1,0 +1,105 @@
+.callicon,
+.locationicon {
+  position: absolute;
+  top: 222px;
+  left: 44px;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+.locationicon {
+  top: 98px;
+  width: 27.3px;
+  height: 29.4px;
+}
+.contactus2 {
+  position: absolute;
+  top: 12px;
+  left: 171px;
+  width: 173px;
+  height: 46px;
+}
+.contact-us {
+  position: absolute;
+  top: 26px;
+  left: 110px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-inika);
+}
+.faculty-of-science3 {
+  position: absolute;
+  top: 305px;
+  left: calc(50% - 373.5px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inder);
+}
+.university-of-peradeniya {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.peradeniya {
+  margin: 0;
+}
+.faculty-of-science-container {
+  position: absolute;
+  top: 93px;
+  left: 110px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.office-081-container,
+.telephone {
+  position: absolute;
+  top: 205px;
+  left: 110px;
+  font-family: var(--font-inika);
+}
+.office-081-container {
+  top: 249px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+.recommendation2,
+.services1 {
+  position: absolute;
+  top: -25px;
+  left: 91px;
+  font-weight: 900;
+}
+.recommendation2 {
+  top: 69px;
+  left: -61px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+.services {
+  position: absolute;
+  top: 61px;
+  left: 803px;
+  width: 310px;
+  height: 65px;
+  font-size: var(--font-size-12xl);
+}
+.registration1,
+.search-internship1 {
+  position: absolute;
+  top: 212px;
+  left: 742px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.registration1 {
+  top: 171px;
+}
+.footer {
+  position: relative;
+  margin-top: auto;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 1917px;
+  height: 349px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

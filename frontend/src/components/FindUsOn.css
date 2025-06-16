@@ -1,0 +1,64 @@
+.find-us-on {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  font-weight: 900;
+}
+.fblogo,
+.inlogo,
+.instalogo,
+.twitlogo,
+.ytlogo {
+  text-decoration: none;
+  position: absolute;
+  top: 87px;
+  left: 148px;
+  width: 44px;
+  height: 39.8px;
+  background-image: url(/public/twitlogo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.fblogo,
+.inlogo,
+.instalogo,
+.ytlogo {
+  top: 85px;
+  left: 74px;
+  height: 42.2px;
+  background-image: url(/public/instalogo@3x.png);
+}
+.fblogo,
+.inlogo,
+.ytlogo {
+  top: 84px;
+  left: 0;
+  height: 44px;
+  background-image: url(/public/fblogo@3x.png);
+}
+.inlogo,
+.ytlogo {
+  top: 161px;
+  left: 57px;
+  width: 135px;
+  height: 42px;
+  background-image: url(/public/ytlogo@3x.png);
+}
+.inlogo {
+  top: 85px;
+  left: 222px;
+  width: 43px;
+  background-image: url(/public/inlogo@3x.png);
+}
+.finduson {
+  position: absolute;
+  top: 52px;
+  left: 1545px;
+  width: 265px;
+  height: 203px;
+  text-align: left;
+  font-size: var(--font-size-12xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

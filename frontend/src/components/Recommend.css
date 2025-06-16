@@ -1,0 +1,89 @@
+.recommend-child,
+.recommend-inner,
+.recommend-item {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  top: 75%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.recommend-inner,
+.recommend-item {
+  top: 50%;
+  bottom: 25%;
+}
+.recommend-inner {
+  top: 25%;
+  bottom: 50%;
+}
+.high,
+.low,
+.normal {
+  position: absolute;
+  height: 13.13%;
+  width: 38.49%;
+  top: 56.25%;
+  left: 7%;
+  display: none;
+  align-items: center;
+}
+.high,
+.low {
+  top: 80.63%;
+}
+.high {
+  top: 31.25%;
+}
+.recommend-child1 {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 75%;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightskyblue);
+  border: 1px solid var(--color-gray-300);
+  box-sizing: border-box;
+}
+.recommend-child2 {
+  position: absolute;
+  height: 7.5%;
+  width: 3%;
+  top: 8.75%;
+  right: 5.02%;
+  bottom: 83.75%;
+  left: 91.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.my-recommendations {
+  position: absolute;
+  height: 13.13%;
+  width: 67.82%;
+  top: 6.25%;
+  left: 6.94%;
+  font-size: var(--font-size-xl);
+  display: flex;
+  align-items: center;
+}
+.recommend {
+  position: absolute;
+  top: 1414px;
+  left: 1317px;
+  width: 317px;
+  height: 160px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

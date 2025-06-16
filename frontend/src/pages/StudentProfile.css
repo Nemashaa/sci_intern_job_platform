@@ -1,0 +1,357 @@
+.background2,
+.background3 {
+  position: absolute;
+  top: 753px;
+  left: calc(50% - 673.5px);
+  background-color: var(--color-gainsboro-100);
+  width: 1347px;
+  height: 621px;
+}
+.background3 {
+  top: 1434px;
+  width: 811px;
+  height: 657px;
+}
+.save-changes {
+  position: relative;
+}
+.savechangesbutton {
+  position: absolute;
+  top: 1979px;
+  left: 869px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-skyblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-19xl);
+}
+.request {
+  margin: 0;
+}
+.request-recommendation {
+  width: 175px;
+  position: relative;
+  display: inline-block;
+  height: 72px;
+  flex-shrink: 0;
+}
+.savechangesbutton1 {
+  position: absolute;
+  top: 1979px;
+  left: 325px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightskyblue);
+  width: 218px;
+  height: 70px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-19xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+}
+.topicbackground1-icon {
+  position: absolute;
+  top: 456px;
+  left: calc(50% - 673.5px);
+  border-radius: var(--br-31xl);
+  width: 1347px;
+  height: 263px;
+}
+.account-type-show,
+.your-name-here {
+  position: absolute;
+  top: 556px;
+  left: calc(50% - 196.5px);
+  font-size: var(--font-size-46xl);
+  font-weight: 600;
+  font-family: var(--font-asap-condensed);
+  text-align: center;
+}
+.account-type-show {
+  top: 640px;
+  left: calc(50% - 157.5px);
+  font-size: var(--font-size-16xl);
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.backgroundlogo,
+.profilelogo-icon {
+  position: absolute;
+  top: 356px;
+  left: calc(50% - 99.5px);
+  width: 200px;
+  height: 200px;
+}
+.backgroundlogo {
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+}
+.profilelogo-icon {
+  object-fit: cover;
+}
+.name {
+  position: absolute;
+  top: 889px;
+  left: 378px;
+  white-space: pre-wrap;
+}
+.email-address {
+  top: 951px;
+  left: 377px;
+  display: inline-block;
+  width: 219px;
+  height: 33px;
+}
+.address,
+.contact-number,
+.email-address,
+.gender {
+  position: absolute;
+  white-space: pre-wrap;
+}
+.gender {
+  top: 1013px;
+  left: 377px;
+  display: inline-block;
+  width: 240px;
+}
+.address,
+.contact-number {
+  left: 378px;
+  width: 230px;
+}
+.contact-number {
+  top: 1078px;
+  display: inline-block;
+  height: 33px;
+}
+.address {
+  top: 1140px;
+}
+.account-type,
+.address,
+.change-password {
+  display: inline-block;
+  height: 33px;
+}
+.account-type {
+  position: absolute;
+  top: 1202px;
+  left: 378px;
+  white-space: pre-wrap;
+  width: 230px;
+}
+.change-password {
+  top: 1277px;
+  left: 377px;
+  font-size: var(--font-size-6xl);
+  width: 240px;
+}
+.bio,
+.change-password,
+.nameshow {
+  position: absolute;
+}
+.bio {
+  top: 794px;
+  left: 323px;
+  font-size: var(--font-size-16xl);
+}
+.nameshow {
+  top: 889px;
+  left: 581px;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.email-address-will {
+  width: 329px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.accounttypeshow,
+.addressshow,
+.emailshow,
+.gendershow,
+.numbershow {
+  position: absolute;
+  top: 948px;
+  left: 608px;
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.accounttypeshow,
+.addressshow,
+.gendershow,
+.numbershow {
+  top: 1008px;
+  left: 586px;
+  width: 320px;
+}
+.accounttypeshow,
+.addressshow,
+.numbershow {
+  top: 1078px;
+  left: 591px;
+}
+.accounttypeshow,
+.addressshow {
+  top: 1140px;
+  left: 566px;
+  width: 370px;
+}
+.accounttypeshow {
+  top: 1199px;
+  left: 596px;
+  width: 320px;
+}
+.editaddress,
+.editcontactnumber,
+.editemail,
+.editgender,
+.editname {
+  position: absolute;
+  top: 889px;
+  left: 1512px;
+  color: var(--color-steelblue-100);
+}
+.editaddress,
+.editcontactnumber,
+.editemail,
+.editgender {
+  top: 951px;
+}
+.editaddress,
+.editcontactnumber,
+.editgender {
+  top: 1016px;
+}
+.editaddress,
+.editcontactnumber {
+  top: 1078px;
+}
+.editaddress {
+  top: 1140px;
+}
+.editlogo-1-icon,
+.editlogo-2-icon,
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  position: absolute;
+  top: 897px;
+  left: 1488px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.editlogo-2-icon,
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 959px;
+}
+.editlogo-3-icon,
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 1024px;
+}
+.editlogo-4-icon,
+.editlogo-5-icon {
+  top: 1086px;
+}
+.editlogo-5-icon {
+  top: 1148px;
+}
+.editaddress1,
+.editlogo-6-icon {
+  position: absolute;
+  top: 0;
+  left: 24px;
+}
+.editlogo-6-icon {
+  top: 8px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.editaddress-group,
+.editaddress-parent {
+  position: absolute;
+  top: 1257px;
+  left: 1488px;
+  width: 62px;
+  height: 36px;
+  color: var(--color-steelblue-100);
+}
+.editaddress-group {
+  top: 1458px;
+  left: 1003px;
+}
+.pleasecontactus {
+  position: absolute;
+  top: 2341px;
+  left: 286px;
+  font-size: var(--font-size-6xl);
+}
+.studentprofile-child {
+  position: absolute;
+  top: 1275px;
+  left: 624px;
+  background-color: var(--color-gainsboro);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 266px;
+  height: 37px;
+}
+.b {
+  position: absolute;
+  top: 1266px;
+  left: 649px;
+  font-size: var(--font-size-6xl);
+}
+.add-your-cv,
+.add-your-cv-wrapper {
+  position: absolute;
+  width: 135px;
+  height: 24px;
+}
+.add-your-cv {
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.add-your-cv-wrapper {
+  top: 1814px;
+  left: 442px;
+  cursor: pointer;
+  text-align: center;
+  color: #555;
+}
+.studentprofile {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2894px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

@@ -1,0 +1,111 @@
+.registration-number,
+.upload-cv {
+  position: absolute;
+  left: 13px;
+  display: inline-block;
+}
+.registration-number {
+  top: 84.5px;
+  white-space: pre-wrap;
+  width: 236px;
+  height: 36.7px;
+}
+.upload-cv {
+  top: 350px;
+  width: 141px;
+  height: 37px;
+}
+.degree-programme,
+.faculty,
+.subjects-you-have,
+.year {
+  position: absolute;
+  top: 79px;
+  left: 444px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 326px;
+  height: 37px;
+}
+.degree-programme,
+.faculty,
+.year {
+  top: 282px;
+  left: 13px;
+  width: 236px;
+  height: 36.7px;
+}
+.faculty,
+.year {
+  top: 152.3px;
+  width: 179px;
+}
+.year {
+  top: 220.2px;
+}
+.enterfaculty,
+.enterregistrationnumber {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  font-weight: 700;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.enterregistrationnumber {
+  display: inline-block;
+  position: absolute;
+  top: 84.5px;
+  left: 263px;
+  width: 117px;
+  height: 40px;
+}
+.enterfaculty {
+  top: 152.3px;
+  left: 131px;
+  width: 240px;
+  height: 36.7px;
+}
+.enterfaculty,
+.enteryear,
+.if-you-are {
+  position: absolute;
+  display: inline-block;
+}
+.enteryear {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  top: 220.2px;
+  left: 109px;
+  font-weight: 700;
+  color: var(--color-dimgray-100);
+  text-align: left;
+  width: 63px;
+  height: 40px;
+}
+.if-you-are {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-asap-condensed);
+  white-space: pre-wrap;
+  text-align: center;
+  width: 218px;
+  height: 37.8px;
+}
+.group01 {
+  position: absolute;
+  top: 1458px;
+  left: 308px;
+  width: 770px;
+  height: 387px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

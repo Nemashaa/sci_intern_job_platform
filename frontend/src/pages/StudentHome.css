@@ -1,0 +1,70 @@
+/* Page container */
+.page-container {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Header Section */
+  .page-header {
+    position: relative;
+    text-align: center;
+  }
+  
+  .header-image {
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    margin-top: 260px;
+    filter: grayscale(0.20);
+  }
+  
+  .header-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+  }
+  
+  .header-text h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .header-text p {
+    font-size: 1.2rem;
+  }
+  
+  /* Button Grid Section */
+  .button-grid .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  button.w-100 {
+    font-size: 20px;
+    padding: 15px;
+    height: 100px;
+    border-radius: 30px;
+  }
+  
+  button.w-100 {
+    width: 100%;
+  }
+  
+  button.w-100:hover {
+    background-color: goldenrod;
+  }
+  
+  .col {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Bootstrap Modal */
+  .modal-content {
+    font-family: Arial, sans-serif;
+  }
+  

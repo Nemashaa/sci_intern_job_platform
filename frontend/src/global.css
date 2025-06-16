@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Arima Madurai:wght@500;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Asap Condensed:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kadwa:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-asap-condensed: "Asap Condensed";
+  --font-arima-madurai: "Arima Madurai";
+  --font-inria-serif: "Inria Serif";
+  --font-inika: Inika;
+  --font-inder: Inder;
+  --font-inter: Inter;
+  --font-kadwa: Kadwa;
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-39xl: 58px;
+  --font-size-43xl: 62px;
+  --font-size-51xl: 70px;
+  --font-size-12xl: 31px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
+  --font-size-4xl: 23px;
+  --font-size-16xl: 35px;
+  --font-size-15xl-1: 34.1px;
+  --font-size-42xl-5: 61.5px;
+  --font-size-mid-9: 17.9px;
+  --font-size-mid-1: 17.1px;
+  --font-size-7xl: 26px;
+  --font-size-xl-5: 20.5px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --font-size-xs: 12px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-silver: #bdbdbd;
+  --color-white: #fff;
+  --color-lightskyblue: #9cc5ef;
+  --color-black: #000;
+  --color-goldenrod: #dd9c0f;
+  --color-gray-100: #141111;
+  --color-gray-200: rgba(0, 0, 0, 0.2);
+  --color-gray-300: rgba(0, 0, 0, 0.4);
+  --color-gray-400: rgba(0, 0, 0, 0.53);
+  --color-gainsboro: #d9d9d9;
+  --color-orangered: rgba(249, 67, 9, 0.65);
+  --color-khaki: rgba(247, 229, 95, 0.55);
+  --color-darkkhaki: #bb9a54;
+  --color-dimgray: #805b5b;
+  --color-darkslateblue: #1e499e;
+  --color-mediumslateblue: #3f4fe0;
+
+  /* Gaps */
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-mini: 15px;
+  --padding-4xs-9: 8.9px;
+  --padding-8xl-3: 27.3px;
+
+  /* Border radiuses */
+  --br-xl: 20px;
+  --br-3xs: 10px;
+  --br-5xl: 24px;
+  --br-6xs-8: 6.8px;
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+}

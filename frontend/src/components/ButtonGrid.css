@@ -1,0 +1,12 @@
+/* Optional custom styles */
+.row-cols-md-2 {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.ButtonGrid {
+    position: absolute;
+    top: 1437px;
+    left: calc(50% + 284.5px);
+}

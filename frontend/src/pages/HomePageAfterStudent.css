@@ -1,0 +1,134 @@
+.homepage-afterstudent-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ddedfe;
+  width: 1917px;
+  height: 2224px;
+}
+.homepage-afterstudent-item,
+.icon {
+  position: absolute;
+  left: 3px;
+  width: 1917px;
+}
+.icon {
+  top: 260px;
+  height: 499px;
+  object-fit: cover;
+}
+.homepage-afterstudent-item {
+  top: 759px;
+  background-color: var(--color-lightskyblue);
+  height: 143px;
+}
+.available-facilities {
+  position: absolute;
+  top: 781px;
+  left: 581px;
+  font-size: var(--font-size-51xl);
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 735px;
+  height: 99px;
+}
+.pexels-thibault-trillet-167491 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: blur(6px);
+  background-color: rgba(93, 125, 239, 0.42);
+  width: 400px;
+  height: 346px;
+}
+.post {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.job {
+  margin: 0;
+}
+.post-job {
+  position: absolute;
+  top: 101px;
+  left: 63px;
+  font-weight: 600;
+  display: inline-block;
+  width: 273px;
+  height: 199px;
+}
+.sporteventbutton {
+  position: absolute;
+  top: 1437px;
+  left: calc(50% - 676.5px);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver);
+  width: 400px;
+  height: 346px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.pexels-thibault-trillet-1674911 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: blur(6px);
+  width: 400px;
+  height: 346px;
+}
+.give-recommendation {
+  font-weight: 600;
+  display: inline-block;
+  text-align: center;
+}
+.specialprobutton {
+  position: absolute;
+  top: 1437px;
+  left: calc(50% + 284.5px);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background-color: #cc8c02;
+  width: 400px;
+  height: 200px;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pexels-thibault-trillet-1674912 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: blur(6px);
+  background-color: rgba(90, 169, 203, 0.6);
+  width: 400px;
+  height: 346px;
+}
+.dailyeventbutton {
+  position: absolute;
+  top: 972px;
+  left: 1248px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 100px;
+  background-color: var(--color-silver);
+  width: 400px;
+  height: 250px;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.homepage-afterstudent {
+  width: 100%;
+  position: relative;
+  height: 2224px;
+  text-align: center;
+  font-size: var(--font-size-43xl);
+  color: var(--color-white);
+  font-family: var(--font-robot);
+}

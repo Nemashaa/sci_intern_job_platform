@@ -1,0 +1,475 @@
+.aboutus-child,
+.headerback {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 1917px;
+  height: 2224px;
+}
+
+.headerback {
+  top: 1px;
+  left: 368px;
+  background-color: var(--color-khaki);
+  width: 1550px;
+  height: 259px;
+}
+
+.unilogo-icon {
+  position: absolute;
+  top: 9px;
+  left: calc(50% + 28.5px);
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+
+.log-out {
+  position: relative;
+}
+
+.logout {
+  position: absolute;
+  top: 198px;
+  left: 1689px;
+  border-radius: var(--br-6xs-8);
+  background-color: var(--color-goldenrod);
+  width: 133px;
+  height: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-4xs-9) var(--padding-8xl-3);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  font-weight: 300;
+}
+
+.loglogo-1-icon,
+.uopname-icon {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 368px;
+  height: 259px;
+  object-fit: cover;
+}
+
+.loglogo-1-icon {
+  top: 199px;
+  left: 1846px;
+  width: 50px;
+  height: 51px;
+  cursor: pointer;
+}
+
+.naviback {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+
+.about-us,
+.home {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 18px;
+  font-size: var(--font-size-mid-1);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 57.4px;
+  height: 17.1px;
+}
+
+.about-us {
+  top: 11.6px;
+  left: 91.5px;
+  color: var(--color-black);
+  width: 80.6px;
+}
+
+.registration {
+  top: 11.6px;
+  left: 192.6px;
+  width: 99px;
+  height: 17.1px;
+}
+
+.academic-staff,
+.employee,
+.registration,
+.student {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-size: var(--font-size-mid-1);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+
+.student {
+  top: 11.6px;
+  left: 312.1px;
+  width: 83.3px;
+  height: 17.1px;
+}
+
+.academic-staff,
+.employee {
+  top: 12px;
+  left: 415px;
+}
+
+.employee {
+  left: 581px;
+  width: 125.7px;
+  height: 16.4px;
+}
+
+.navigationbar {
+  position: absolute;
+  top: 201px;
+  left: 380px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1211px;
+  height: 48px;
+  overflow: hidden;
+}
+
+.recommendation2,
+.search-internship {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 213px;
+  left: 679px;
+  font-size: var(--font-size-mid-9);
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 194.2px;
+}
+
+.recommendation2 {
+  top: 214px;
+  left: 1266px;
+}
+
+.internship-and-job {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+
+.faculty-of-science2 {
+  margin: 0;
+  font-size: var(--font-size-15xl-1);
+}
+
+.internship-and-job-container {
+  position: absolute;
+  top: 73px;
+  left: 15,8vw;
+  color: var(--color-gray-400);
+  display: inline-block;
+  width: 1353px;
+  height: 130px;
+  text-shadow: 0.7px 0 0#000, 0 0.7px 0#000, -0.7px 0 0#000, 0-0.7px 0#000;
+  font-size: var(--font-size-42xl-5);
+  font-family: var(--font-inter);
+}
+
+.headerafterlogstaff {
+  top: 0;
+  left: 0;
+  height: 260px;
+  overflow: hidden;
+}
+
+.headerafterlogstaff,
+.icon1,
+.rectangle-div {
+  position: absolute;
+  width: 1917px;
+}
+
+.icon1 {
+  top: 260px;
+  left: 1px;
+  height: 740px;
+  object-fit: cover;
+}
+
+.rectangle-div {
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightskyblue);
+  height: 763px;
+}
+
+.historytpoic {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 178.65px);
+  display: inline-block;
+  width: 290.2px;
+  height: 200px;
+  font-size: 2.0em;
+}
+
+.history,
+.historytpoic-parent {
+  position: absolute;
+  width: 1766.5px;
+}
+
+.history {
+  top: 157.1px;
+  left: calc(50% - 883.25px);
+  font-size: 40px;
+  font-family: var(--font-arima-madurai);
+  color: var(--color-black);
+  display: inline-block;
+  height: 394.3px;
+}
+
+.historytpoic-parent {
+  top: 48.9px;
+  left: calc(50% - 891.8px);
+  height: 551.4px;
+}
+
+.rectangle-parent1 {
+  position: absolute;
+  top: 1112px;
+  left: 1px;
+  width: 1917px;
+  height: 763px;
+  text-align: justify;
+  font-size: var(--font-size-46xl);
+  color: #ca3838;
+  font-family: var(--font-arial);
+}
+
+.callicon,
+.locationicon {
+  position: absolute;
+  top: 222px;
+  left: 44px;
+  width: 29.4px;
+  height: 27.3px;
+  object-fit: cover;
+}
+
+.locationicon {
+  top: 98px;
+  width: 27.3px;
+  height: 29.4px;
+}
+
+.contactus2 {
+  position: absolute;
+  top: 12px;
+  left: 171px;
+  width: 173px;
+  height: 46px;
+}
+
+.contact-us {
+  position: absolute;
+  top: 26px;
+  left: 110px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-inika);
+}
+
+.faculty-of-science3 {
+  position: absolute;
+  top: 305px;
+  left: calc(50% - 373.5px);
+  font-size: var(--font-size-4xl);
+  font-family: var(--font-inder);
+}
+
+.university-of-peradeniya {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+
+.peradeniya {
+  margin: 0;
+}
+
+.faculty-of-science-container {
+  position: absolute;
+  top: 93px;
+  left: 110px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+
+.office-081-container,
+.telephone {
+  position: absolute;
+  top: 205px;
+  left: 110px;
+  font-family: var(--font-inika);
+}
+
+.office-081-container {
+  top: 249px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inria-serif);
+}
+
+.recommendation3,
+.services1 {
+  position: absolute;
+  top: -25px;
+  left: 91px;
+  font-weight: 900;
+}
+
+.recommendation3 {
+  top: 69px;
+  left: -61px;
+  font-size: var(--font-size-6xl);
+  font-weight: 500;
+}
+
+.services {
+  position: absolute;
+  top: 61px;
+  left: 803px;
+  width: 310px;
+  height: 65px;
+  font-size: var(--font-size-12xl);
+}
+
+.registration1,
+.search-internship1 {
+  position: absolute;
+  top: 212px;
+  left: 291.5px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.registration1 {
+  top: 171px;
+}
+
+.find-us-on {
+  position: absolute;
+  top: 0;
+  left: 57px;
+  font-weight: 900;
+}
+
+.fblogo,
+.inlogo,
+.instalogo,
+.twitlogo,
+.ytlogo {
+  text-decoration: none;
+  position: absolute;
+  top: 87px;
+  left: 148px;
+  width: 44px;
+  height: 39.8px;
+  background-image: url(/public/twitlogo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+.fblogo,
+.inlogo,
+.instalogo,
+.ytlogo {
+  top: 85px;
+  left: 74px;
+  height: 42.2px;
+  background-image: url(/public/instalogo@3x.png);
+}
+
+.fblogo,
+.inlogo,
+.ytlogo {
+  top: 84px;
+  left: 0;
+  height: 44px;
+  background-image: url(/public/fblogo@3x.png);
+}
+
+.inlogo,
+.ytlogo {
+  top: 161px;
+  left: 57px;
+  width: 135px;
+  height: 42px;
+  background-image: url(/public/ytlogo@3x.png);
+}
+
+.inlogo {
+  top: 85px;
+  left: 222px;
+  width: 43px;
+  background-image: url(/public/inlogo@3x.png);
+}
+
+/* .finduson,
+.footer {
+  position: absolute;
+  top: 52px;
+  left: 1545px;
+  width: 265px;
+  height: 203px;
+  font-size: var(--font-size-12xl);
+}
+
+.footer {
+  top: 1875px;
+  left: 0;
+  background-color: var(--color-goldenrod);
+  width: 1917px;
+  height: 349px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+} */
+
+.aboutus {
+  width: 100%;
+  position: relative;
+  height: 2224px;
+  text-align: center;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

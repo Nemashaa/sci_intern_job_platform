@@ -1,0 +1,85 @@
+.department,
+.faculty1,
+.subject-area {
+  position: absolute;
+  top: 84.5px;
+  left: 13px;
+  display: inline-block;
+  white-space: pre-wrap;
+  width: 236px;
+  height: 36.7px;
+}
+.department,
+.faculty1 {
+  top: 152.3px;
+  width: 179px;
+}
+.department {
+  top: 220.2px;
+}
+.enterfaculty1,
+.enterregistrationnumber1 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  font-weight: 700;
+  color: var(--color-dimgray-100);
+  text-align: left;
+}
+.enterregistrationnumber1 {
+  display: inline-block;
+  position: absolute;
+  top: 89px;
+  left: 176px;
+  width: 117px;
+  height: 40px;
+}
+.enterfaculty1 {
+  top: 152.3px;
+  left: 131px;
+  width: 240px;
+  height: 36.7px;
+}
+.enterfaculty1,
+.enteryear1,
+.if-you-are1 {
+  position: absolute;
+  display: inline-block;
+}
+.enteryear1 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-arima-madurai);
+  font-size: var(--font-size-3xl);
+  background-color: transparent;
+  top: 220px;
+  left: 182px;
+  font-weight: 700;
+  color: var(--color-dimgray-100);
+  text-align: left;
+  width: 118px;
+  height: 40px;
+}
+.if-you-are1 {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-asap-condensed);
+  white-space: pre-wrap;
+  text-align: center;
+  width: 218px;
+  height: 37.8px;
+}
+.group011 {
+  position: absolute;
+  top: 1438px;
+  left: 310px;
+  width: 371px;
+  height: 260px;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}

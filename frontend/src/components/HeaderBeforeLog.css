@@ -1,0 +1,263 @@
+.headerback1 {
+  position: absolute;
+  top: 0;
+  left: 370px;
+  background-color: var(--color-khaki);
+  width: 1547px;
+  height: 259px;
+}
+
+.uopname-icon1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 260px;
+  object-fit: cover;
+}
+
+.internship-and-job1 {
+  margin-block-start: 0;
+  margin-block-end: 7.51px;
+  font-weight: 600;
+}
+
+.faculty-of-science5 {
+  margin: 0;
+  font-size: var(--font-size-15xl-1);
+}
+
+.internship-and-job-container1 {
+  position: absolute;
+  top: 73px;
+  left: 15.8vw;
+  display: inline-block;
+  width: 1353px;
+  height: 130px;
+  text-shadow: 0.7px 0 0#000, 0 0.7px 0#000, -0.7px 0 0#000, 0-0.7px 0#000;
+}
+
+.unilogo-icon1 {
+  position: absolute;
+  top: 8px;
+  width: 69.1px;
+  height: 69.8px;
+  object-fit: cover;
+}
+
+.log-in {
+  position: relative;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+}
+
+.loginback {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-4xs-9) var(--padding-8xl-3);
+  background-color: var(--color-goldenrod);
+  position: absolute;
+  top: 196px;
+  left: 1762px;
+  border-radius: var(--br-6xs-8);
+  width: 143.4px;
+  height: 54.6px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.sign-up,
+.signupback {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+}
+
+.signupback {
+  background-color: var(--color-goldenrod);
+  width: 143.4px;
+  border-radius: var(--br-6xs-8);
+  height: 54.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+
+.sign-up {
+  background-color: transparent;
+  width: 76px;
+  position: absolute;
+  margin: 0 !important;
+  top: 15px;
+  left: 33.5px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+
+.signup {
+  position: absolute;
+  top: 196px;
+  left: 1611px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+
+.naviback1 {
+  position: absolute;
+  top: -0.7px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1207.4px;
+  height: 41px;
+  display: none;
+}
+
+.about-us1,
+.home1,
+.registration2,
+.contact-us1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  height: 17.1px;
+}
+
+.home1 {
+  top: 12px;
+  left: 18px;
+  font-size: var(--font-size-mid-1);
+  color: var(--color-gray-100);
+  width: 57.4px;
+}
+
+.about-us1,
+.registration2,
+.contact-us1 {
+  top: 11.6px;
+  color: var(--color-black);
+}
+
+.about-us1 {
+  left: 291px;
+  font-size: var(--font-size-mid-1);
+  width: 80.6px;
+}
+
+.contact-us1 {
+  left: 380.6px;
+  font-size: var(--font-size-mid-1);
+  width: 105.6px;
+}
+
+.registration2 {
+  left: 192.6px;
+  width: 99px;
+}
+
+.academic-staff1,
+.registration2,
+.student1 {
+  font-size: var(--font-size-mid-1);
+}
+
+.student1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 11.6px;
+  left: 312.1px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 83.3px;
+  height: 17.1px;
+}
+
+.academic-staff1 {
+  top: 12px;
+  left: 415px;
+}
+
+.academic-staff1,
+.employee1,
+.recommendation4,
+.search-internship2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+
+.employee1 {
+  top: 12px;
+  left: 91.5px;
+  font-size: var(--font-size-mid-1);
+  width: 200px;
+  height: 16.4px;
+}
+
+.recommendation4,
+.search-internship2 {
+  top: 11px;
+  left: 291px;
+  font-size: var(--font-size-mid-9);
+  width: 194.2px;
+}
+
+.recommendation4 {
+  top: 10px;
+  left: 873px;
+}
+
+.navigationbar1 {
+  position: absolute;
+  top: 203px;
+  left: 385px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 1198px;
+  height: 48px;
+  overflow: hidden;
+}
+
+.headerbeforelog {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1917px;
+  height: 259.5px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-42xl-5);
+  color: var(--color-gray-400);
+  font-family: var(--font-inter);
+}

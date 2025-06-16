@@ -1,0 +1,162 @@
+.contactUs {
+  padding: 5rem 0;
+  margin-top: 6%;
+  padding-bottom: 0px;
+
+
+}
+
+.contentHeader {
+  text-align: center;
+}
+
+
+/* .contentHeader p {
+  font-family: 'RobotoMono', Regular;
+  font-size: 2rem;
+  justify-content: center;
+  letter-spacing: 1.2rem;
+} */
+
+/* .contentHeader h2 {
+  font-family: 'Montserrat', Bold;
+  font-size: 6rem;
+  margin-top: 0.5rem;
+  letter-spacing:0.5rem;
+} */
+
+@media only screen and (max-width: 768px) {
+  .contentHeader p {
+    font-size: 1.2rem;
+
+  }
+
+  .contentHeader h2 {
+    font-size: 3.6rem;
+  }
+}
+
+.contact-us-container {
+  width: 90%;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.contactUs_left {
+  padding-right: 50px;
+  border-radius: 50px;
+}
+
+/* .contactUs_left::after,
+.contactUs_right::before {
+content: '';
+width: 2px;
+height: 80%;
+background-color: black;
+position: absolute;
+left: 50%;
+top: 750px;
+transform: translate(-50%, -50%);
+} */
+
+.contactUs_left p {
+  margin-top: 10%;
+  margin-left: 10%;
+  font-size: 1.2rem;
+  border: 1px solid black;
+  padding: 40px;
+  border-radius: 30px;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  background-color: #EFECEC;
+}
+
+.contactUs_left p:hover {
+  /* background-color: #FFD0EC; */
+  background-color: #ccc;
+}
+
+.contactUs_left span {
+  font-size: 1.3rem;
+  margin-top: 5px;
+  margin-left: 10%;
+  letter-spacing: 3px;
+
+}
+
+.contactUs-icon {
+  font-size: 2.0rem;
+  padding: 10px;
+  background-color: #ccc;
+  border-radius: 30px;
+
+}
+
+
+
+.contactUs_right {
+  width: 50%;
+
+}
+
+.contact-contactForm {
+  padding-top: 8%;
+  width: 100%;
+  border-radius: 50px;
+  border: 3px soild #ccc;
+
+}
+
+.contact-contactForm span {
+  font-size: 1.2rem;
+  padding: 3px;
+  margin-bottom: 10%;
+  margin-top: 10%;
+  font-weight: bold;
+  letter-spacing: 4px;
+
+}
+
+
+
+.contactus-input {
+  padding: 10px;
+  width: 90%;
+  border-radius: 20px;
+  background-color: #ccc;
+  margin-bottom: 20px;
+}
+
+
+
+
+.contactus-button {
+  position: relative;
+  left: 150px;
+}
+
+.ContactUs {
+  max-width: 500px;
+  margin: 0 auto;
+  font-size: 1.8rem;
+  line-height: 1.3em;
+
+  @media only screen and (max-width: 768px) {
+    font-size: 1.4rem;
+  }
+}
+
+
+.map__card h3 {
+  font-size: 2.8rem;
+  text-align: center;
+  letter-spacing: 0.5rem;
+}
+
+.map__card p {
+  font-size: 1.3rem;
+  letter-spacing: 1.2rem;
+  text-align: center;
+  line-height: 2rem;
+}

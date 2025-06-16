@@ -1,0 +1,36 @@
+.group-child7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 90px;
+  height: 40px;
+}
+.cancel2 {
+  position: absolute;
+  top: 10px;
+  left: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64px;
+  height: 21px;
+}
+.cancel3,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 40px;
+}
+.cancel3 {
+  left: 524px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

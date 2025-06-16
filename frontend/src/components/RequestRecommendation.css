@@ -1,0 +1,95 @@
+.requestrecommendation-child {
+  position: absolute;
+  top: 32px;
+  left: 32px;
+  background-color: var(--color-white);
+  width: 170px;
+  height: 35px;
+}
+.add-lecture,
+.request-recommendation {
+  position: absolute;
+  top: 29px;
+  left: 59px;
+  line-height: 20px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 314px;
+  height: 35px;
+}
+.add-lecture {
+  top: 0;
+  left: 0;
+  width: 265.6px;
+  height: 15px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 709px;
+  height: 30px;
+}
+.add-lecture-parent {
+  position: absolute;
+  top: 102px;
+  left: 59px;
+  width: 709px;
+  height: 50px;
+  font-size: var(--font-size-xs);
+}
+.requestrecommendation,
+.requestrecommendation-item {
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
+.requestrecommendation-item {
+  border: 0;
+  outline: 0;
+  font-weight: 500;
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 177px;
+  left: 59px;
+  width: 709px;
+  height: 181px;
+  padding: 0 0 159.8px;
+  box-sizing: border-box;
+}
+.requestrecommendation {
+  width: 836px;
+  position: relative;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background-color: var(--color-white);
+  height: 544px;
+  overflow: auto;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.requestrecommendation-item1 {
+  border: 1px solid var(--color-gray-300);
+  outline: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 80px;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-sizing: border-box;
+  width: 709px;
+  height: 150px;
+}
+.add-reco {
+  top: 300;
+  left: 0;
+  width: 265.6px;
+  height: 15px;
+}

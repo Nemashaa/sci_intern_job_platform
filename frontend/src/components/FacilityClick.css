@@ -1,0 +1,42 @@
+.pexels-thibault-trillet-1674913 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  filter: blur(6px);
+  background-color: var(--color-lightskyblue);
+  width: 400px;
+  height: 346px;
+}
+.request1 {
+  margin-block-start: 0;
+  margin-block-end: 2.73px;
+}
+.recommendation6 {
+  margin: 0;
+}
+.request-recommendation2 {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 408px;
+  height: 199px;
+  text-shadow: 2px 0 0#000, 0 2px 0#000, -2px 0 0#000, 0-2px 0#000;
+}
+.musiceventbutton {
+  position: absolute;
+  top: 972px;
+  left: 268px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-xl);
+  background-color: var(--color-silver);
+  width: 400px;
+  height: 346px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-39xl);
+  color: var(--color-white);
+  font-family: var(--font-asap-condensed);
+}

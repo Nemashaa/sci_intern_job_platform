@@ -1,0 +1,312 @@
+.pleasecontactus1 {
+  position: absolute;
+  top: 2341px;
+  left: 286px;
+  font-size: var(--font-size-6xl);
+}
+.background21,
+.background31 {
+  position: absolute;
+  top: 733px;
+  left: calc(50% - 671.5px);
+  background-color: var(--color-gainsboro-100);
+  width: 1347px;
+  height: 621px;
+}
+.background31 {
+  top: 1414px;
+  width: 811px;
+  height: 657px;
+}
+.save-changes1 {
+  position: relative;
+}
+.savechangesbutton2,
+.savechangesbutton3 {
+  position: absolute;
+  top: 1959px;
+  left: 871px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-skyblue);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-base) var(--padding-19xl);
+}
+.savechangesbutton3 {
+  top: 1567px;
+  left: 1342px;
+  cursor: pointer;
+}
+.topicbackground1-icon1 {
+  position: absolute;
+  top: 436px;
+  left: calc(50% - 671.5px);
+  border-radius: var(--br-31xl);
+  width: 1347px;
+  height: 263px;
+}
+.account-type-show1,
+.your-name-here1 {
+  position: absolute;
+  top: 536px;
+  left: calc(50% - 194.5px);
+  font-size: var(--font-size-46xl);
+  font-weight: 600;
+  font-family: var(--font-asap-condensed);
+  text-align: center;
+}
+.account-type-show1 {
+  top: 620px;
+  left: calc(50% - 155.5px);
+  font-size: var(--font-size-16xl);
+  font-weight: 500;
+  white-space: pre-wrap;
+}
+.backgroundlogo1,
+.profilelogo-icon1 {
+  position: absolute;
+  top: 336px;
+  left: calc(50% - 97.5px);
+  width: 200px;
+  height: 200px;
+}
+.backgroundlogo1 {
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+}
+.profilelogo-icon1 {
+  object-fit: cover;
+}
+.email-address1,
+.gender1,
+.name1 {
+  position: absolute;
+  white-space: pre-wrap;
+}
+.name1 {
+  top: 869px;
+  left: 380px;
+}
+.email-address1,
+.gender1 {
+  left: 379px;
+  display: inline-block;
+}
+.email-address1 {
+  top: 931px;
+  width: 219px;
+  height: 33px;
+}
+.gender1 {
+  top: 993px;
+  width: 240px;
+}
+.address1,
+.contact-number1 {
+  left: 380px;
+  white-space: pre-wrap;
+  width: 230px;
+}
+.contact-number1 {
+  position: absolute;
+  top: 1058px;
+  display: inline-block;
+  height: 33px;
+}
+.address1 {
+  top: 1120px;
+}
+.account-type1,
+.address1,
+.change-password1 {
+  position: absolute;
+  display: inline-block;
+  height: 33px;
+}
+.account-type1 {
+  top: 1182px;
+  left: 380px;
+  white-space: pre-wrap;
+  width: 230px;
+}
+.change-password1 {
+  top: 1257px;
+  left: 379px;
+  font-size: var(--font-size-6xl);
+  width: 240px;
+}
+.bio1 {
+  position: absolute;
+  top: 774px;
+  left: 325px;
+  font-size: var(--font-size-16xl);
+}
+.nameshow1 {
+  position: absolute;
+  top: 869px;
+  left: 583px;
+  width: 320px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.email-address-will1 {
+  width: 329px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.accounttypeshow1,
+.addressshow1,
+.emailshow1,
+.gendershow1,
+.numbershow1 {
+  position: absolute;
+  top: 928px;
+  left: 610px;
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.accounttypeshow1,
+.addressshow1,
+.gendershow1,
+.numbershow1 {
+  top: 988px;
+  left: 588px;
+  width: 320px;
+}
+.accounttypeshow1,
+.addressshow1,
+.numbershow1 {
+  top: 1058px;
+  left: 593px;
+}
+.accounttypeshow1,
+.addressshow1 {
+  top: 1120px;
+  left: 568px;
+  width: 370px;
+}
+.accounttypeshow1 {
+  top: 1179px;
+  left: 598px;
+  width: 320px;
+}
+.editaddress3,
+.editcontactnumber1,
+.editemail1,
+.editgender1,
+.editname1 {
+  position: absolute;
+  top: 869px;
+  left: 1514px;
+  color: var(--color-steelblue-100);
+}
+.editaddress3,
+.editcontactnumber1,
+.editemail1,
+.editgender1 {
+  top: 931px;
+}
+.editaddress3,
+.editcontactnumber1,
+.editgender1 {
+  top: 996px;
+}
+.editaddress3,
+.editcontactnumber1 {
+  top: 1058px;
+}
+.editaddress3 {
+  top: 1120px;
+}
+.editlogo-10-icon,
+.editlogo-6-icon2,
+.editlogo-7-icon,
+.editlogo-8-icon,
+.editlogo-9-icon {
+  position: absolute;
+  top: 877px;
+  left: 1490px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.editlogo-10-icon,
+.editlogo-7-icon,
+.editlogo-8-icon,
+.editlogo-9-icon {
+  top: 939px;
+}
+.editlogo-10-icon,
+.editlogo-8-icon,
+.editlogo-9-icon {
+  top: 1004px;
+}
+.editlogo-10-icon,
+.editlogo-9-icon {
+  top: 1066px;
+}
+.editlogo-10-icon {
+  top: 1128px;
+}
+.editaddress4 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+}
+.editlogo-6-icon3 {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.editaddress-container,
+.group-div {
+  position: absolute;
+  top: 1237px;
+  left: 1490px;
+  width: 62px;
+  height: 36px;
+  color: var(--color-steelblue-100);
+}
+.group-div {
+  top: 1438px;
+  left: 1005px;
+}
+.lectureprofile-child {
+  position: absolute;
+  top: 1255px;
+  left: 626px;
+  background-color: var(--color-gainsboro);
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 266px;
+  height: 37px;
+}
+.b1 {
+  position: absolute;
+  top: 1246px;
+  left: 651px;
+  font-size: var(--font-size-6xl);
+}
+.lectureprofile {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 2894px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-black);
+  font-family: var(--font-arima-madurai);
+}
